@@ -49,7 +49,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.maven.demo.mavensimple.App</mainClass>
+              <mainClass>com.maven.demo.maven.App</mainClass>
             </manifest>
           </archive>
         </configuration>
